@@ -1,0 +1,7 @@
+If a data engineer is tasked with enabling analytics in a certain organization. He, for example, would first have to ascetain the data maturity level of the organization, how well does the organization utilize data and  its current capabilities i.e is the organization just getting started with data, scaling with data or leading with data; This would determine the roles and responsiblities the data engineer has to play. If for example the organization is just getting started with data, then data engineer would have to:
+1. Collaborate with stakeholders to define the data strategy the company would be utilizing, that is aligned with business goals.
+2. Identify the key business questions and decide the data to collect, how to collect it and how to store it securely.
+3. Craft how data moves from upstream stakeholders(systems) to downstream stakeholders(users).
+4. Develop and maintain  the data warehouse and its modelling.
+5. Develop scheduling and monitoring of data workflows.
+6. Make clean, accessible data available to analysts, decision makers and BI tools. 
